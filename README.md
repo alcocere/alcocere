@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Elisa, 
 A new passionate `front-end developer` living in Munich. 
 > The combination the web programming offers in terms of `creativity`, `use of technologies`, and the `constant learning`, have made me get hooked to this world full of possibilities. 
-> I'm looking forward to find a `new challenge` where I can keep improving my `programming skills`.
+> I'm looking forward finding a `new challenge` to continue improving my `programming skills`.
 
 ### Tools & Technologies
 
