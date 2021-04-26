@@ -3,7 +3,7 @@ A new passionate `front-end developer` living in Munich.
 > The combination the web programming offers in terms of `creativity`, `use of technologies`, and the `constant learning`, have made me get hooked to this world full of possibilities. 
 > I'm looking forward finding a `new challenge` to continue improving my `programming skills`.
 
-#### Tools & Technologies I've learned
+#### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
