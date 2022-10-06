@@ -23,7 +23,4 @@ A new passionate `front-end developer` living in Munich.
 ![SQLite](https://img.shields.io/badge/-SQLite-3399ff?style=flat&logo=sqlite&logoColor=white)
 
 
-<table>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alcocere&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="alcocere" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=alcocere&theme=gruvbox&show_icons=true&locale=en" alt="alcocere" /></td>
-</table>
+
